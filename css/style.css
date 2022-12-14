@@ -185,6 +185,7 @@ button:hover{
 	width: 1130px;
 	margin: 30px auto;
 	text-align: center;
+	width: 100%!important;
 }
 .box{
 	display: flex;
